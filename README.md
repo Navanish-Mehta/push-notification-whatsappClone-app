@@ -226,4 +226,4 @@ The app successfully demonstrates:
 
 ---
 
-**Built with ❤️ for React Native Internship Assignment**
+**Built with ❤️ By Navanish Mehta as React Native Internship Assignment**
